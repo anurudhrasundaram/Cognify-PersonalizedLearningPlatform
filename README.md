@@ -129,8 +129,8 @@ npm install
       institute patent litigation against any entity (including a
       cross-claim or counterclaim a lawsuit) alleging that the Work
       or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
+      or contributory patent infringement, any patent licenses
+      granted to You under this License that Work shall terminate
       as of the date such litigation is filed.
 
    4. Redistribution. You may reproduce and distribute copies of the
@@ -139,10 +139,10 @@ npm install
       meet the following conditions:
 
       (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+          Derivative Works a copy of this License and
 
       (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+          stating that You changed the files and
 
       (c) You must retain, the Source form of any Derivative Works
           that You distribute, all copyright, patent, trademark, and
