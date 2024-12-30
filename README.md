@@ -1,2 +1,2 @@
-cd path/to/
-Cognify-Personalized-Learning-Platform
+# Cognify Personalized Learning Platform
+A platform that adapts learning content based on user performance.
