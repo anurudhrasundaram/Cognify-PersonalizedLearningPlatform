@@ -12,7 +12,7 @@ A personalized e-learning platform that adapts content based on user performance
 - Azure (Functions, Blob Storage)
 
 
-Cognify-Personalized-Learning-Platform/
+## Cognify-Personalized-Learning-Platform/
 ├── backend/
 │   ├── app.js
 │   ├── package.json
