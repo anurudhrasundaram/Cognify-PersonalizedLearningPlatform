@@ -2,7 +2,6 @@
 
 A personalized e-learning platform that adapts content based on user performance and progress. It includes features such as adaptive learning paths, real-time progress tracking, and secure user authentication.
 
-
 ## Technologies Used:
 - React.js
 - Node.js
@@ -32,6 +31,10 @@ Cognify-Personalized-Learning-Platform/
 ├── Dockerfile
 ├── docker-compose.yml
 └── .gitignore
+
+
+
+
 
 
 ## Installation:
