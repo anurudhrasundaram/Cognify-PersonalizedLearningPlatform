@@ -12,26 +12,6 @@ A personalized e-learning platform that adapts content based on user performance
 - Azure (Functions, Blob Storage)
 
 
-## Cognify-Personalized-Learning-Platform/
-├── backend/
-│   ├── app.js
-│   ├── package.json
-│   └── routes/
-│       ├── auth.js
-│       └── content.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Dashboard.js
-│   │   │   ├── Login.js
-│   │   │   └── ProgressTracker.js
-│   │   ├── App.js
-│   │   └── index.js
-├── Dockerfile
-├── docker-compose.yml
-└── .gitignore
-
 
 
 
