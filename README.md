@@ -13,7 +13,9 @@ A personalized e-learning platform that adapts content based on user performance
 
 
 
-
+git clone https://github.com/anurudhrasundaram/Cognify-PersonalizedLearningPlatform.git  
+cd Cognify-PersonalizedLearningPlatform  
+npm install
 
 
 
