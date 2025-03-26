@@ -51,18 +51,7 @@ For the purposes of this definition, "control" means:
 
 2. Grant of Copyright License.
 Subject to the terms and conditions of this License, each Contributor grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to:
-
-reproduce,
-
-prepare Derivative Works of,
-
-publicly display,
-
-publicly perform,
-
-sublicense, and
-
-distribute the Work and Derivative Works in Source or Object form.
+reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and Derivative Works in Source or Object form.
 
 3. Grant of Patent License.
 Each Contributor also grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to:
@@ -91,23 +80,11 @@ This License does not grant permission to use the trade names, trademarks, servi
 
 7. Disclaimer of Warranty.
 Unless required by applicable law or agreed to in writing:
-
 the Work is provided on an "AS IS" basis, without warranties or conditions of any kind, either express or implied, including but not limited to warranties of title, non-infringement, merchantability, or fitness for a particular purpose.
-
-Yo assume any risks associated with using or redistributing the Work.
+You assume any risks associated with using or redistributing the Work.
 
 8. Limitation of Liability.
-Under no legal theory, including tort (negligence), contract, or otherwise, shall any Contributor be liable to You for damages, including:
-
-direct,
-
-indirect,
-
-special,
-
-incidental, or
-
-consequential damages arising from this License or the use or inability to use the Work.
+Under no legal theory, including tort (negligence), contract, or otherwise, shall any Contributor be liable to You for damages, including: direct, indirect, special, incidental, or consequential damages arising from this License or the use or inability to use the Work.
 
 9. Accepting Warranty or Additional Liability.
 While redistributing the Work or Derivative Works, You may choose to offer support, warranty, indemnity, or other liability obligations and/or rights consistent with this License.
