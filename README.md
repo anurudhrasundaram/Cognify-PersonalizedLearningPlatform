@@ -12,7 +12,6 @@ A personalized e-learning platform that adapts content based on user performance
 - Azure (Functions, Blob Storage)
 
 ## Installation:
-To get started, clone the repository:
 git clone https://github.com/anurudhrasundaram/Cognify-PersonalizedLearningPlatform.git  
 cd Cognify-PersonalizedLearningPlatform  
 npm install
